@@ -30,6 +30,7 @@ The platform is built with modern web development practices and follows a clear 
 - Frontend: HTML, CSS, Javascript, JSP (Java Servlet Pages)
 - REST API implemented with Jakarta
 - JSON for data exchange
+- Apache NetBeans  
 
 ## 👨‍💻 Developers
 
